@@ -2,5 +2,4 @@
 Bootcamp Dio Desafio Git/Github
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
-
+[Markdown Basic Sintax](https://www.markdownguide.org/basic-syntax/)
